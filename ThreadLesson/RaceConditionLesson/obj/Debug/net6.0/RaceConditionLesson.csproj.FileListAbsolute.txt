@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\bin\Debug\net6.0\RaceConditionLesson.exe
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\bin\Debug\net6.0\RaceConditionLesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\bin\Debug\net6.0\RaceConditionLesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\bin\Debug\net6.0\RaceConditionLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\bin\Debug\net6.0\RaceConditionLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\refint\RaceConditionLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\RaceConditionLesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\RaceConditionLesson\obj\Debug\net6.0\ref\RaceConditionLesson.dll

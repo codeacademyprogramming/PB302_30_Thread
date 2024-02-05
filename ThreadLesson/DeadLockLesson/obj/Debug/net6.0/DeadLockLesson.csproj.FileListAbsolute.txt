@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\bin\Debug\net6.0\DeadLockLesson.exe
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\bin\Debug\net6.0\DeadLockLesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\bin\Debug\net6.0\DeadLockLesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\bin\Debug\net6.0\DeadLockLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\bin\Debug\net6.0\DeadLockLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\refint\DeadLockLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\DeadLockLesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\DeadLockLesson\obj\Debug\net6.0\ref\DeadLockLesson.dll

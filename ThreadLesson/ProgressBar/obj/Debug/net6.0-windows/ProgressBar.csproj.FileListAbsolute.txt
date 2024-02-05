@@ -1,0 +1,17 @@
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.exe
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.deps.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.Form1.resources
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.GenerateResource.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\refint\ProgressBar.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ProgressBar\obj\Debug\net6.0-windows\ref\ProgressBar.dll

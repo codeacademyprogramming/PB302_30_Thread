@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.exe
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\bin\Debug\net6.0\ThreadLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\refint\ThreadLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ThreadLesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ThreadLesson\obj\Debug\net6.0\ref\ThreadLesson.dll

@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\bin\Debug\net6.0\ParalelReading.exe
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\bin\Debug\net6.0\ParalelReading.deps.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\bin\Debug\net6.0\ParalelReading.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\bin\Debug\net6.0\ParalelReading.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\bin\Debug\net6.0\ParalelReading.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\refint\ParalelReading.dll
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.pdb
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ParalelReading.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\30. 05-02-2024\ThreadLesson\ParalelReading\obj\Debug\net6.0\ref\ParalelReading.dll

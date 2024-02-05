@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RaceConditionLesson/1.0.0": {
+        "runtime": {
+          "RaceConditionLesson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RaceConditionLesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
